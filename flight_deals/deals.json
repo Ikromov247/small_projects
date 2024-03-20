@@ -1,0 +1,121 @@
+{
+    "search_id": "a94a1eec-15e4-101b-8faa-7f2a4fec2efe",
+    "currency": "EUR",
+    "fx_rate": 1,
+    "data": [
+        {
+            "id": "0993097b4b6100002d232574_0",
+            "flyFrom": "ICN",
+            "flyTo": "HND",
+            "cityFrom": "Seoul",
+            "cityCodeFrom": "SEL",
+            "cityTo": "Tokyo",
+            "cityCodeTo": "TYO",
+            "countryFrom": {
+                "code": "KR",
+                "name": "South Korea"
+            },
+            "countryTo": {
+                "code": "JP",
+                "name": "Japan"
+            },
+            "nightsInDest": null,
+            "quality": 126.939925,
+            "distance": 1210.42,
+            "duration": {
+                "departure": 8100,
+                "return": 0,
+                "total": 8100
+            },
+            "price": 96.94,
+            "conversion": {
+                "EUR": 96.94
+            },
+            "fare": {
+                "adults": 96.94,
+                "children": 96.94,
+                "infants": 96.94
+            },
+            "bags_price": {
+                "1": 20.94,
+                "2": 41.88
+            },
+            "baglimit": {
+                "hand_height": 38,
+                "hand_length": 57,
+                "hand_weight": 5,
+                "hand_width": 20,
+                "hold_dimensions_sum": 203,
+                "hold_height": 66,
+                "hold_length": 99,
+                "hold_weight": 20,
+                "hold_width": 38,
+                "personal_item_height": 30,
+                "personal_item_length": 40,
+                "personal_item_weight": 2,
+                "personal_item_width": 20
+            },
+            "availability": {
+                "seats": 1
+            },
+            "airlines": [
+                "MM"
+            ],
+            "route": [
+                {
+                    "id": "0993097b4b6100002d232574_0",
+                    "combination_id": "0993097b4b6100002d232574",
+                    "flyFrom": "ICN",
+                    "flyTo": "HND",
+                    "cityFrom": "Seoul",
+                    "cityCodeFrom": "SEL",
+                    "cityTo": "Tokyo",
+                    "cityCodeTo": "TYO",
+                    "airline": "MM",
+                    "flight_no": 808,
+                    "operating_carrier": "",
+                    "operating_flight_no": "",
+                    "fare_basis": "",
+                    "fare_category": "M",
+                    "fare_classes": "",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": false,
+                    "vi_connection": false,
+                    "guarantee": false,
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-11-02T00:55:00.000Z",
+                    "utc_arrival": "2022-11-01T15:55:00.000Z",
+                    "local_departure": "2022-11-01T22:40:00.000Z",
+                    "utc_departure": "2022-11-01T13:40:00.000Z"
+                }
+            ],
+            "booking_token": "Et5y3D6bZUAoU4LuCMUXhQYszFRFCrh2AyjzLQu1nToUCoh7qOAsfEUQw4XDXJtJj1BFyuLVsHIeHXzv2Hj53eMxDMnBGS83IWc_GY0Lw541dGVZUqsG8eTBU-n3B_qIV0tVX4ZY_QdXN2I-PJP8ZXJFb9Vmn9HlkMq5Ysp92HtDbEKqLlMq7W6CUJ6Kkqx4J8mBzujalL9mLe7nWVTnwx7r5HbQq1SRqo2OHsU8jj6MIbECGHszhl5MKchgMjNJROzkz_PZ5_L6SsNla9OUczRUz-bQ8HRpgWw-4yQLkfjAA23vfhcP-qbJ-3RJmrWC5LtKrLEnFj2kez6s5Vl71MiDUaUTwRFdUVLxxlf_Pdh4=",
+            "deep_link": "https://www.kiwi.com/deep?affilid=sukhrobsukhrob&currency=EUR&flightsId=0993097b4b6100002d232574_0&from=ICN&lang=en&passengers=1&searchBags=1.1&to=HND&booking_token=Et5y3D6bZUAoU4LuCMUXhQYszFRFCrh2AyjzLQu1nToUCoh7qOAsfEUQw4XDXJtJj1BFyuLVsHIeHXzv2Hj53eMxDMnBGS83IWc_GY0Lw541dGVZUqsG8eTBU-n3B_qIV0tVX4ZY_QdXN2I-PJP8ZXJFb9Vmn9HlkMq5Ysp92HtDbEKqLlMq7W6CUJ6Kkqx4J8mBzujalL9mLe7nWVTnwx7r5HbQq1SRqo2OHsU8jj6MIbECGHszhl5MKchgMjNJROzkz_PZ5_L6SsNla9OUczRUz-bQ8HRpgWw-4yQLkfjAA23vfhcP-qbJ-3RJmrWC5LtKrLEnFj2kez6s5Vl71MiDUaUTwRFdUVLxxlf_Pdh4=",
+            "facilitated_booking_available": false,
+            "pnr_count": 1,
+            "has_airport_change": false,
+            "technical_stops": 0,
+            "throw_away_ticketing": false,
+            "hidden_city_ticketing": false,
+            "virtual_interlining": false,
+            "local_arrival": "2022-11-02T00:55:00.000Z",
+            "utc_arrival": "2022-11-01T15:55:00.000Z",
+            "local_departure": "2022-11-01T22:40:00.000Z",
+            "utc_departure": "2022-11-01T13:40:00.000Z"
+        }
+    ],
+    "search_params": {
+        "flyFrom_type": "airport",
+        "to_type": "airport",
+        "seats": {
+            "passengers": 1,
+            "adults": 1,
+            "children": 0,
+            "infants": 0
+        }
+    },
+    "all_stopover_airports": [],
+    "sort_version": 0
+}

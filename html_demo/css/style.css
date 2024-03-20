@@ -1,0 +1,14 @@
+
+body {
+    background-color: aliceblue;
+}
+
+hr{
+    background-color: aliceblue;
+    color: rgb(138, 207, 111);
+    height: 0px;
+    width: 10%;
+    border-style: dotted none none none;
+    border-width: 10px;
+    border-radius: 0%;
+    }
